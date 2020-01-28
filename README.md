@@ -10,18 +10,18 @@ Flarum extension. Add a back to top button in the bottom right corner of the glo
 
 ### Installation
 ```
-composer require itnt/flarum-scrollup
+composer require itnt/flarum-backtop
 
 ```
 
 ### Update
 ```
-composer update itnt/flarum-scrollup
+composer update itnt/flarum-backtop
 ```
 
 ### Remove
 ```
-composer remove itnt/flarum-scrollup
+composer remove itnt/flarum-backtop
 ```
 
 ### After install / update / remove
@@ -34,13 +34,13 @@ php flarum cache:clear
   - https://bbs.csur.fun
 
 ### Report Issue
-  - [Github](https://github.com/Littlegolden/flarum-scrollup/issues)
+  - [Github](https://github.com/Littlegolden/flarum-backtop/issues)
   - [bbs.csur.fun](https://bbs.csur.fun/t/chatroom)
 
 ### Links
   - [Flarum](https://discuss.flarum.org/d/22631)
-  - [Github](https://github.com/Littlegolden/flarum-scrollup)
-  - [Packagist](https://packagist.org/packages/itnt/flarum-scrollup)
+  - [Github](https://github.com/Littlegolden/flarum-backtop)
+  - [Packagist](https://packagist.org/packages/itnt/flarum-backtop)
 
 ### Donate
 Buy me a cup of coffee \^_\^

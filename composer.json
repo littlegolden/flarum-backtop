@@ -1,5 +1,5 @@
 {
-  "name": "itnt/flarum-scrollup",
+  "name": "itnt/flarum-backtop",
   "description": "Flarum Back to Top Extenion",
   "keywords": [
     "flarum",
@@ -17,7 +17,7 @@
     }
   ],
   "support": {
-    "source": "https://github.com/Littlegolden/flarum-scrollup",
+    "source": "https://github.com/Littlegolden/flarum-backtop",
     "issues": "https://bbs.csur.fun/t/chatroom"
   },
   "require": {
