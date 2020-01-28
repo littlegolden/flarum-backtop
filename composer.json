@@ -1,6 +1,6 @@
 {
   "name": "itnt/flarum-scrollup",
-  "description": "Flarum Scroll Up Extenion",
+  "description": "Flarum Back to Top Extenion",
   "keywords": [
     "flarum",
     "extension",
@@ -24,7 +24,7 @@
   },
   "extra": {
     "flarum-extension": {
-      "title": "Scroll Up",
+      "title": "Back to Top ",
         "icon": {
         "name": "fas fa-chevron-up",
         "background": "#f8504b",

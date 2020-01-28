@@ -1,4 +1,4 @@
-## Flarum Scroll Up Extension
+## Flarum Back to Top Extension
 Flarum extension. Add a back to top button in the bottom right corner of the global page.
 
 ### Future goals
