@@ -1,5 +1,6 @@
 ## Flarum Back to Top Extension
 Flarum extension. Add a back to top button in the bottom right corner of the global page.
+By the way, it can solve the problem that the Flarum native slider is not convenient to use on the mobile phone.
 
 ### Future goals
 - Added setting interface.
