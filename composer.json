@@ -21,7 +21,7 @@
     "issues": "https://bbs.csur.fun/t/chatroom"
   },
   "require": {
-    "flarum/core": "^0.1.0-beta.11"
+    "flarum/core": "^0.1.0-beta.10"
   },
   "extra": {
     "flarum-extension": {
@@ -31,6 +31,9 @@
         "background": "#f8504b",
         "color": "#ffffff"
       }
-    }
+    },
+    "flagrow": {
+			"discuss": "https://discuss.flarum.org/d/22646-back-to-top-globallly"
+		}
   }
 }

@@ -39,7 +39,7 @@ php flarum cache:clear
   - [bbs.csur.fun](https://bbs.csur.fun/t/chatroom)
 
 ### Links
-  - [Flarum](https://discuss.flarum.org/d/22631)
+  - [Flarum](https://discuss.flarum.org/d/22646)
   - [Github](https://github.com/Littlegolden/flarum-backtop)
   - [Packagist](https://packagist.org/packages/itnt/flarum-backtop)
 
