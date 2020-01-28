@@ -22,7 +22,7 @@
             ';
 
             $document->body[] = '
-            <a href="#" class="scroll-up" style="display: inline;"><i class="fa fa-chevron-up"></i> </a>
+            <a href="#" class="scroll-up" style="display: none;"><i class="fa fa-chevron-up"></i> </a>
             ';
         })
 ];
