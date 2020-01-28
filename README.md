@@ -42,6 +42,7 @@ php flarum cache:clear
   - [Flarum](https://discuss.flarum.org/d/22646)
   - [Github](https://github.com/Littlegolden/flarum-backtop)
   - [Packagist](https://packagist.org/packages/itnt/flarum-backtop)
+  - [Flagrow](https://flagrow.io/extensions/itnt/flarum-backtop)
 
 ### Donate
 Buy me a cup of coffee \^_\^
