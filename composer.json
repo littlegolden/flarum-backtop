@@ -1,0 +1,35 @@
+{
+  "name": "itnt/flarum-scrollup",
+  "description": "Flarum Scroll Up Extenion",
+  "keywords": [
+    "flarum",
+    "extension",
+    "scroll up"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Golden",
+      "email": "littlegoldenjin@gmail.com",
+      "homepage": "https://bbs.csur.fun/u/Golden"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/Littlegolden/flarum-scrollup",
+    "issues": "https://bbs.csur.fun/t/chatroom"
+  },
+  "require": {
+    "flarum/core": "^0.1.0-beta.11"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Scroll Up",
+        "icon": {
+        "name": "fas fa-chevron-up",
+        "background": "#f8504b",
+        "color": "#ffffff"
+      }
+    }
+  }
+}
