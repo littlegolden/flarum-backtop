@@ -19,8 +19,11 @@
             <script src="https://cdn.jsdelivr.net/gh/Littlegolden/CDN@1.1/scrollTop/jquery.js?ver=1.12.4"></script>
             <script src="https://cdn.jsdelivr.net/gh/Littlegolden/CDN@1.1/scrollTop/menu.js?ver=4.9.9"></script>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Littlegolden/CDN@1.1/scrollTop/css.css?ver=20200128">
-
-            <a href="#" class="scroll-up" style="display: none;"><i class="fa fa-chevron-up"></i> </a>
+            <!-- BackTop -->
+            <a href="#" class="scroll-up" style="display: none;">
+                <i class="fa fa-chevron-up"></i>
+            </a>
+            <!-- BackTop -->
             ';
         })
 ];
