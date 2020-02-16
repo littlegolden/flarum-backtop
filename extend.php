@@ -17,30 +17,7 @@
         ->content(function (Document $document) {
             $document->foot[] = '
             <!-- BackTop -->
-            <script>
-                (function(){
-                    jQuery(document).ready(function() {
-                        /* Scroll top */
-                        
-                        jQuery(window).scroll(function() {
-                            if (jQuery(this).scrollTop() > 100) {
-                                jQuery('.scroll-up').fadeIn();
-                            } else {
-                                jQuery('.scroll-up').fadeOut();
-                            }
-                        });
-                        
-                        jQuery('.scroll-up').click(function () {
-                            jQuery("html, body").animate({
-                                scrollTop: 0
-                            }, 700);
-                            return false;
-                        });
-                
-                    });
-                })(jQuery);
-            </script>
-
+            <script src="https://cdn.jsdelivr.net/gh/Littlegolden/CDN@1.1/scrollTop/menu.js?ver=4.9.9"></script>
             <style>
 				.scroll-up {
 				    background-color: #f8504b; /*初始颜色*/
@@ -81,7 +58,6 @@
 				    }
 				}
 			</style>
-
             <a href="#" class="scroll-up" style="display: none;">
                 <i class="fa fa-chevron-up"></i>
             </a>
