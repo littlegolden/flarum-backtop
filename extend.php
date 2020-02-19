@@ -34,7 +34,7 @@
 				
 				.scroll-up {
 				    border-radius: 50px; /*圆角*/
-				    bottom: 30px; /*距离网页底部*/
+				    bottom: 70px; /*距离网页底部*/
 				    padding: 3px;
 				    display: none;
 				    height: 50px; /*圆高度*/
@@ -51,7 +51,7 @@
 				}
 				@media (max-width: 992px){
 				    .scroll-up {
-				        bottom:10px;
+				        bottom:60px;
 				        right:10px;
 				        width:40px;
 				        height:40px;
