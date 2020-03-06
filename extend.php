@@ -49,7 +49,7 @@
 				    color: #ffffff;
 				    box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
 				}
-				@media (max-width: 992px){
+				@media (max-width: 768px){
 				    .scroll-up {
 				        bottom:60px;
 				        right:10px;
