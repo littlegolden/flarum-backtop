@@ -40,7 +40,7 @@
 				    height: 50px; /*圆高度*/
 				    opacity: 1;
 				    position: fixed;
-				    right: 30px; /*距离网页右边*/
+				    right: 70px; /*距离网页右边*/
 				    text-align: center; /*文本居中*/
 				    width: 50px; /*圆宽度*/
 				    overflow: hidden; /*属性规定当内容溢出元素框时，修剪多余内容*/
