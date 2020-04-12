@@ -1,0 +1,38 @@
+.scroll-up {
+    background-color: #f8504b;
+    color:#ffffff;
+    transition: transform 0.5s;
+}
+
+.scroll-up:hover, .scroll-up:focus {
+    background-color: #f8504b;
+    color:#ffffff;
+    transform: scale(1.1,1.1);
+    transition:all 100ms;
+}
+
+.scroll-up {
+    border-radius: 50px;
+    bottom: 70px;
+    padding: 3px;
+    display: none;
+    height: 50px;
+    opacity: 1;
+    position: fixed;
+    right: 70px;
+    text-align: center;
+    width: 50px;
+    overflow: hidden;
+    z-index: 9999;
+    line-height: 2.5;
+    color: #ffffff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.3);
+}
+@media (max-width: 768px){
+    .scroll-up {
+        bottom:60px;
+        right:10px;
+        width:40px;
+        height:40px;
+    }
+}
